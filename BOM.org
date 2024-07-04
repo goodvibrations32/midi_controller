@@ -1,0 +1,7 @@
+#+title: BOM midi controller.
+#+description: What we will need to make a midi controller
+
+* BOM MIDI CONTROLLER [0%]
+- [ ] [[https://grobotronics.com/esp32-development-board-esp32-s2-devkitc-1.html][esp32-s2 devkit (with pin headeres for ease of prototyping)]]
+- [ ] [[https://grobotronics.com/arcade-machine-bundle-2-player-30mm-button.html][arcade kit]]
+- [ ] [[https://grobotronics.com/rotary-encoder-16mm-24p-r.html][rotary encoder for knob controll on DAW]]
